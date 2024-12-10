@@ -1,2 +1,6 @@
 eekke
+<<<<<<< HEAD
 akjdzkjdzn
+=======
+etôkre^pok
+>>>>>>> origin/main
